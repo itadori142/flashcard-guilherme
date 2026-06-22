@@ -55,3 +55,6 @@ footer{
  .cartao-verso{
     transform: rotateY(1800deg);
  }
+ .cartao: hover .cartao-interno{
+    transform:rotatey(180deg)
+ }
